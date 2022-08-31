@@ -1,0 +1,3 @@
+//cor da pokedex:
+
+rgb(211, 10, 64);
